@@ -15,3 +15,18 @@ Condition
 ```
 
 https://codesandbox.io/s/day-three-blueprint-lxplg
+
+
+## Day 4
+
+![Image](https://github.com/geonwoo-jeong/challenge-javascript/blob/master/Sb8B8Zv.gif)
+
+
+```
+Condition
+
+1 Use if/else etc.
+
+```
+
+https://codesandbox.io/s/empty-blueprint-83i3o
