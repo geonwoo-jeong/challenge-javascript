@@ -44,3 +44,18 @@ Condition
 ```
 
 https://codesandbox.io/s/day-five-blueprint-23g6i
+
+
+## Day 6
+
+![Image](https://github.com/geonwoo-jeong/challenge-javascript/blob/master/MutIt3F.gif)
+
+```
+Condition
+
+1. Save the country selection to localStorage.
+2. Load the saved selection on refresh.
+
+```
+
+https://codesandbox.io/s/day-six-blueprint-b610g
