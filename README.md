@@ -59,3 +59,20 @@ Condition
 ```
 
 https://codesandbox.io/s/day-six-blueprint-b610g
+
+
+## Day 9
+
+![Image](https://github.com/geonwoo-jeong/challenge-javascript/blob/master/g5s1fzT.gif)
+
+
+```
+Condition
+
+1. Make a To Do list with two boards: Pending, Finished.
+2. Allow the user to switch between boards.
+3. Allow the user to delete To Dos.
+4. Save everything on localStorage and restore everything on refresh.
+```
+
+https://codesandbox.io/s/empty-blueprint-un9jz
