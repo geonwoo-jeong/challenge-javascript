@@ -76,3 +76,21 @@ Condition
 ```
 
 https://codesandbox.io/s/empty-blueprint-un9jz
+
+## Day 10
+
+![Image](https://github.com/geonwoo-jeong/challenge-javascript/blob/master/uK7mDZv.gif)
+
+
+```
+Condition
+
+1. Find a  random number on a range between 0 and a number defined by the user.
+2. Use range input.
+3. Update the range value in real time.
+4. Only play after the user chooses a number.
+5. Notify the user if the game is lost or won.
+6. Don't give up.
+```
+
+https://codesandbox.io/s/empty-blueprint-wx4oy
