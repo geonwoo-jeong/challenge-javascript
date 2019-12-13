@@ -94,3 +94,20 @@ Condition
 ```
 
 https://codesandbox.io/s/empty-blueprint-wx4oy
+
+
+## Day 12
+
+![Image](https://github.com/geonwoo-jeong/challenge-javascript/blob/master/JbIO0Bx.gif)
+
+```
+Condition
+
+1. Have a reset (C) button.
+2. Support all basic operations (+ , - , * , / )
+3. Support for 'equals' ( = ) button.
+4. Allow value carrying. i.e 2 * 2 * 2 * 2 * 2  without pressing equals.
+5. Don't give up!
+```
+
+https://codesandbox.io/s/empty-blueprint-jdpfm
